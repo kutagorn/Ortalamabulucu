@@ -9,8 +9,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         hesapla.setOnClickListener{
-
-
             if(editTextNumber1.text.isNotEmpty()&&editTextNumber2.text.isNotEmpty()){
                 var sinav1 =editTextNumber1.text.toString().toInt()
                 var sinav2 =editTextNumber2.text.toString().toInt()
