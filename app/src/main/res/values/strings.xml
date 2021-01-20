@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ortalamabulucu</string>
+    <string name="ilknot">Vize Notunuz</string>
+    <string name="ikincinot">Final Notunuz</string>
+    <string name="hesapla">Hesapla!!</string>
+    <string name="text">Kalıp kalmadığın burda yazacak</string>
+</resources>
